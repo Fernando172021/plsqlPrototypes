@@ -3,6 +3,8 @@ Testes de conceito em PL/SQL ORACLE
 
 lista de comandos do GIT
 
+git clone link do repositório
+
 git config
 
 git status
