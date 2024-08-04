@@ -14,3 +14,15 @@ git add .
 git commit -m "Descrição do commit"
 
 git push
+
+-----------------------------------------
+
+Comandos SQL@PLUS
+
+comando em terminal...
+
+sqlplus {usuario}/{senha do usuario}@{string de conexão}
+
+exemplo a baixo...
+
+#sqlplus system/blabla@oracle
